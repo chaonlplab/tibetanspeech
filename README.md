@@ -12,9 +12,9 @@ The resources for this paper will be released upon acceptance.
 
 ## Repository
 This repository will include:  
-- Tibetan multi-level modeling units (syllable, sub-character, morpheme)  
+- Tibetan multi-level modeling units (syllable, unit syllable, component)  
 - Medium-to-Large Tibetan language model
-
+- Public High-Quality Multi-Speaker Dataset:A collection of recordings from multiple native Tibetan speakers, covering diverse pronunciation scenarios, designed to support research in automatic speech recognition (ASR) and linguistic studies. All recordings are carefully annotated and quality-checked to ensure usability for both training and evaluation purposes.
 
 ---
 
