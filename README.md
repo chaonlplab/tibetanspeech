@@ -2,7 +2,7 @@
 # 🚧 Coming Soon
 
 ## Paper
-**Title:** CONTEXT-AWARE DYNAMIC CHUNKING FOR STREAMING TIBETAN SPEECH RECOGNITION
+**Title:** CONTEXT-AWARE DYNAMIC CHUNKING FOR STREAMING TIBETAN SPEECH RECOGNITION  
 **Authors:** Chao Wang, Yuqing Cai  
 **Status:** Under Review  
 
